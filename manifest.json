@@ -1,0 +1,16 @@
+{
+	
+	"name": "Facebook People Search", 
+	"description": "Are you always facebook searching people? Install this plugin to make it even faster!",
+	"omnibox": { "keyword" : "face" },
+	"icons": {
+	"16": "facebook.png"
+	},
+	"background": {
+	"scripts": ["background.js"]
+	},
+        "version": "1.0",
+   	"minimum_chrome_version": "9",
+	"manifest_version": 2
+
+}
